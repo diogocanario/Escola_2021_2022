@@ -8,12 +8,14 @@ Roles
 Aplicaçao movel +utilitario
 
     PT
+    -login
     -pode consultar os planos de treino dos diferentes utilizadores
     -pode marcar aulas 
     -pode
 
     Utilizador
-    -pode fazer o registo da entrada/saida
+    -login
+    -pode fazer o registo da entrada/saida no ginasio
     -pode ver o seu plano de treino
     -pode ver a suas horas medias mensais
     -pode marcar treino em grupo
@@ -24,7 +26,9 @@ Aplicaçao movel +utilitario
 
 Aplicaçao web +informativo
 
+    -login
     -consultar os planos de pagamento de uso do ginasio
     -fazer incriçao    (coloca informaçao pessoal como dados biometricos para calculo do IMC etc)
     -consultar as infrastruturas
     -compra de suplementos
+    -pode marcar aulas em grupo
