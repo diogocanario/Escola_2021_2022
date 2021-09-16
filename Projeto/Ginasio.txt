@@ -1,5 +1,10 @@
 GINASIO
 
+Roles
+	- PT
+	- Utilizador
+	
+
 Aplicaçao movel +utilitario
 
     PT
