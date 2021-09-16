@@ -13,14 +13,14 @@ Diogo Canário, João Clara e Samuel Moleirinho
 
 - PHP
 - HTML
-- 
+- Java
 
 ---
 
 ## Softwares de desenvolvimento:
 
 - PhpStorm
-- 
+- Android Studio
 
 --- 
 > Acesso Móvel a Sistemas de Informação / Plataformas de Sistemas de Informação / Serviços e Interoperabilidade de Sistemas @ 2021/2022
