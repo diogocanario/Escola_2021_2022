@@ -20,13 +20,13 @@ Aplicaçao movel +utilitario
 	 //-pode escolher PT  (nao sei ate que ponto é que o pt é atribuido automaticamente a partir do plano treino / bundles)
     	 -pode escolher treinos especificos
 	 -pode reservar maquinas
-	 -
 
 
 Aplicaçao web +informativo
 
 	front-end
-	 -consultar os planos de pagamento de uso do ginasio
-	 -fazer incriçao - (coloca informaçao pessoal como dados biometricos para calculo do IMC etc)
- 	 -consultar as infrastruturas
+	 -consultar os planos de pagamento de uso do ginasio (pode fazer o pagamento atraves do website)
+	 -pode uma fazer pré-incriçao - (coloca informaçao pessoal como dados biometricos para calculo do IMC etc)
  	 -compra de suplementos / acessorios + material
+ 	 -area do utilizador com histórico de compras.
+ 	 -informção sobre o ginasio
