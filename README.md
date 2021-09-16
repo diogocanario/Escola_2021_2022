@@ -1,5 +1,4 @@
-# Escola_2021_2022
-# Projeto 
+# Projeto em Sistemas de Informação
 ---
 Diogo Canário, João Clara e Samuel Moleirinho
 
