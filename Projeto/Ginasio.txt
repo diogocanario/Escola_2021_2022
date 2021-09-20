@@ -8,7 +8,7 @@ Roles
 Aplicaçao movel +utilitario
 
     	PT
-	 -pode consultar os planos de treino dos diferentes utilizadores
+	 -pode consultar os planos de treino dos diferentes utilizadores	
     	 -pode marcar aulas 
     	 -pode aceder aos stats do utilizador de modo a este ser monotorizado 
 
@@ -20,6 +20,8 @@ Aplicaçao movel +utilitario
 	 //-pode escolher PT  (nao sei ate que ponto é que o pt é atribuido automaticamente a partir do plano treino / bundles)
     	 -pode escolher treinos especificos
 	 -pode reservar maquinas
+	 
+	 - qr code para visuzliar exercicios de cada maquina
 
 
 Aplicaçao web +informativo
