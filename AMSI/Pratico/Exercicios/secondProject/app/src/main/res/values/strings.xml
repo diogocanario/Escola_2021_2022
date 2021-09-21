@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adivinha número</string>
+    <string name="input_number">Valor entre 0 e </string>
+    <string name="button_number">Adivinha</string>
+    <string name="tvStateString">Estado</string>
+    <string name="btnRestart">Novo Jogo</string>
+</resources>

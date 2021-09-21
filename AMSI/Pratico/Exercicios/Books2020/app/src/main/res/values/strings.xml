@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Books2020</string>
+    <string name="Email">Introduza Email</string>
+    <string name="Password">Introduza password</string>
+    <string name="ver_detalhes_livros_estatico">Ver Detalhes Livros (Estatico)</string>
+    <string name="ver_detalhes_livros_dinamico">Ver Detalhes Livros (Dinamico)</string>
+    <string name="enviar_email">Enviar Email</string>
+    <string name="email">[email]</string>
+    <string name="string_email">email</string>
+    <string name="actEstatica">dados estaticos</string>
+    <string name="actDinamico">dados dinamicos</string>
+</resources>

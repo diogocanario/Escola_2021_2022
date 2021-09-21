@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">euromilhoes</string>
+    <string name="gerar_chave">gerar_chave</string>
+    <string name="chave_gerada_numeros">chave_gerada_numeros</string>
+    <string name="chave_gerada_estrelas">chave_gerada_estrelas</string>
+    <string name="resultado">resultado</string>
+    <string name="insira_chave">insira chave</string>
+</resources>

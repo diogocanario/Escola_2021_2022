@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:checkableBehavior="2">
+		<item android:icon="res/drawable-xxhdpi-v4/ic_book_static.png" android:id="false" android:title="Detalhes do livro (estático)" />
+		<item android:icon="res/drawable-xxhdpi-v4/ic_book_dinamic.png" android:id="false" android:title="Detalhes do livro (dinâmico)" />
+	</group>
+</menu>

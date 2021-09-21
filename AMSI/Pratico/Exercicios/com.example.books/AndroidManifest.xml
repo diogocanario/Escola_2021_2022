@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.example.books" platformBuildVersionCode="29" platformBuildVersionName="10">
+	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="29" />
+	<application android:theme="resourceId:0x7f0f0006" android:label="Books" android:icon="res/mipmap-xxxhdpi-v4/ic_launcher.png" android:debuggable="true" android:testOnly="true" android:allowBackup="true" android:supportsRtl="true" android:roundIcon="res/mipmap-xxxhdpi-v4/ic_launcher_round.png" android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+		<activity android:name="com.example.books.View.BookDetails" android:parentActivityName="com.example.books.MenuMainActivity" />
+		<activity android:theme="resourceId:0x7f0f0007" android:name="com.example.books.MenuMainActivity" android:launchMode="singleTop" android:screenOrientation="portrait" />
+		<activity android:name="com.example.books.View.DetalhesDinamico" android:parentActivityName="com.example.books.View.MainActivity" />
+		<activity android:name="com.example.books.View.DetalhesEstatico" android:parentActivityName="com.example.books.View.MainActivity" />
+		<activity android:name="com.example.books.View.LoginActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name="com.example.books.View.MainActivity" android:launchMode="singleTop" />
+	</application>
+</manifest>

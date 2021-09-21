@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="btnAdivinha">Adivinha</string>
+    <string name="input_number">input_number</string>
+</resources>

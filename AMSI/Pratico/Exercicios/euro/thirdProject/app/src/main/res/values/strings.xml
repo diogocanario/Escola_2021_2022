@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Euromilhões</string>
+    <string name="insira_chave">Insira a sua chave:</string>
+    <string name="resultado">Resultado</string>
+    <string name="chave_gerada_numeros">Números gerados</string>
+    <string name="chave_gerada_estrelas">Estrelas geradas</string>
+    <string name="gerar_chave">Gerar chave</string>
+    <string name="toast_fillform">Preencher todos os campos!</string>
+</resources>
