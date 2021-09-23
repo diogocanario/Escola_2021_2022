@@ -23,6 +23,8 @@ Aplicaçao movel +utilitario
 	 
 	 - qr code para visuzliar exercicios de cada maquina
 
+	 - Achivamnets, determinar objetivos diarios.Exemplo: Fazer 5minutos de bicicleta.
+
 
 Aplicaçao web +informativo
 
@@ -32,3 +34,5 @@ Aplicaçao web +informativo
  	 -compra de suplementos / acessorios + material
  	 -area do utilizador com histórico de compras.
  	 -informção sobre o ginasio
+
+
