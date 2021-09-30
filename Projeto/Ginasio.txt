@@ -7,10 +7,7 @@ Roles
 
 Aplicaçao movel +utilitario
 
-    	PT
-	 -pode consultar os planos de treino dos diferentes utilizadores	
-    	 -pode marcar aulas 
-    	 -pode aceder aos stats do utilizador de modo a este ser monotorizado 
+
 
     	Utilizador
     	 -pode fazer o registo da entrada/saida
@@ -24,9 +21,17 @@ Aplicaçao movel +utilitario
 	 - qr code para visuzliar exercicios de cada maquina
 
 	 - Achivamnets, determinar objetivos diarios.Exemplo: Fazer 5minutos de bicicleta.
+	 - Mapa na aplicação com as diferentes areas no ginásio.
+	 - Notificar o utilzador de ir ao ginásio caso esteja tempo se ir ao ginásio.
 
 
 Aplicaçao web +informativo
+
+
+    	PT
+	 -pode consultar os planos de treino dos diferentes utilizadores	
+    	 -pode marcar aulas 
+    	 -pode aceder aos stats do utilizador de modo a este ser monotorizado 
 
 	front-end
 	 -consultar os planos de pagamento de uso do ginasio (pode fazer o pagamento atraves do website)
